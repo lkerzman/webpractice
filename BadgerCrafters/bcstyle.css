@@ -1,0 +1,37 @@
+body {
+    background-color: #d0e4fe;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+.top{
+    img-align: center;
+    background-color: black;
+    
+    
+}
+.top#words{
+    link-text-color: white;
+    link-hover-color: red;
+
+}
+
+.sidebar{
+    border-color: black;
+    float: right;
+    color: red;
+    width: 6px;
+    height: 100%;
+}
+
+
+
+
+

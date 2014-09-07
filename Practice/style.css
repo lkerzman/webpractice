@@ -1,0 +1,55 @@
+body {
+        color: #4b4648;
+        font-family: tahoma, arial, sans-serif;
+        font-size: 14px;
+      }
+      .content {
+        border: 1px solid #cac3c6;
+        margin: 0 auto;
+        padding: 20px;
+        width: 260px;
+      }
+      h1 {
+        color: #6d9fac;
+        font-size: 22px;
+        text-align: center;
+      }
+#slogan{
+  text-align:center;
+  font-style:italic;
+}
+
+
+
+
+
+
+h1{
+	color: #4b4648;
+	margin-bottom:10px;
+}
+
+.intro{
+	color: #4b4648;
+	margin-bottom:10px;
+}
+#header {
+	color: #4b4648;
+	margin-bottom:10px;
+}
+h1#header{
+	color: #4b4648;
+	margin-bottom:10px;
+}
+img{
+	float: right;
+}
+.ski{
+	float: right;
+}
+.sled{
+	float: left;
+}
+
+
+
